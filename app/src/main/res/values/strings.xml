@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="stvlogin">Login</string>
+    <string name="shintLogin">Put your login here</string>
+    <string name="btnValider">Sign in</string>
+    <string name="versionname">SocialMedia</string>
+</resources>

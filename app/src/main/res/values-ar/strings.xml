@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق</string>
+    <string name="stvlogin">دخول</string>
+    <string name="shintLogin">ضع الدخول هنا</string>
+    <string name="btnValider">تسجيل</string>
+    <string name="versionname">تواصل إجتماعي</string>
+</resources>

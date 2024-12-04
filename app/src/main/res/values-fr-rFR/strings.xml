@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="stvlogin">identifier</string>
+    <string name="shintLogin">poser l\'identifier là</string>
+    <string name="btnValider">signer</string>
+    <string name="versionname">SociauxMediaux</string>
+</resources>
